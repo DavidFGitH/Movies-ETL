@@ -9,6 +9,6 @@ To create a database of Movies using the ETL process to clean and consolidate th
 
 For quick reference, I have included the number of entries in movies database and ratings database respectively:
 
-![MoviesQuery](githubcomDavidFGitH)
+![MoviesQuery](https://github.com/DavidFGitH/Movies-ETL/blob/main/Resources/movies_query.png)
 
-![RatingsQuery](githubcomDavidFGitH)
+![RatingsQuery](https://github.com/DavidFGitH/Movies-ETL/blob/main/Resources/ratings_query.png)
